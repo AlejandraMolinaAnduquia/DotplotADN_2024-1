@@ -25,14 +25,12 @@ pip install matplotlib
 pip install mpi4py
 pip install opencv-python
 pip install tqdm==2.2.3
-
 ```
 
 Para tener el proyecto de manera local, clone el repositorio en la terminar de su entorno de ejecución:
 
 ```
 https://github.com/AlejandraMolinaAnduquia/DotplotADN_2024-1.git
-
 ```
 
 ### Ejecución
