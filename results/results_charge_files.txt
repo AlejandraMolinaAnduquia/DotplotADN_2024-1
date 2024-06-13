@@ -1,1 +1,1 @@
-Tiempo de carga de los archivos: 0.060480356216430664
+Tiempo de carga de los archivos: 0.0468907356262207

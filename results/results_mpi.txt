@@ -1,12 +1,12 @@
-Tiempo de ejecución mpi con 1 hilos: 135.3483395576477
-Tiempo de ejecución mpi con 2 hilos: 129.8893313407898
-Tiempo de ejecución mpi con 3 hilos: 129.4643440246582
-Tiempo de ejecución mpi con 4 hilos: 128.5711796283722
+Tiempo de ejecución mpi con 1 hilos: 112.91158628463745
+Tiempo de ejecución mpi con 2 hilos: 108.99878430366516
+Tiempo de ejecución mpi con 3 hilos: 109.94613075256348
+Tiempo de ejecución mpi con 4 hilos: 110.76001214981079
 Aceleración con 1 hilos: 1.0
-Aceleración con 2 hilos: 1.0420281493522754
-Aceleración con 3 hilos: 1.0454487726123944
-Aceleración con 4 hilos: 1.0527113459553261
+Aceleración con 2 hilos: 1.035897666253519
+Aceleración con 3 hilos: 1.026971895343437
+Aceleración con 4 hilos: 1.0194255498267417
 Eficiencia con 1 hilos: 1.0
-Eficiencia con 2 hilos: 0.5210140746761377
-Eficiencia con 3 hilos: 0.34848292420413146
-Eficiencia con 4 hilos: 0.26317783648883153
+Eficiencia con 2 hilos: 0.5179488331267595
+Eficiencia con 3 hilos: 0.342323965114479
+Eficiencia con 4 hilos: 0.25485638745668543
