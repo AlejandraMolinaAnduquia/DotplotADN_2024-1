@@ -1,0 +1,3 @@
+Link directo al código de procesamiento paralelo con la librería PyCuda:
+
+https://colab.research.google.com/drive/1bLYixf1sDwP7UAR7HOUTIEw4QCnso1NP?authuser=1
